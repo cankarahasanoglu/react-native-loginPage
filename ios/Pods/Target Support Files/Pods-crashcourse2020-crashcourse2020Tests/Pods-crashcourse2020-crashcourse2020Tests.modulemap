@@ -1,0 +1,6 @@
+module Pods_crashcourse2020_crashcourse2020Tests {
+  umbrella header "Pods-crashcourse2020-crashcourse2020Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
